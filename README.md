@@ -1,5 +1,6 @@
 # Danny-s-Diner-Analysis
-SQL querying and visualizations on PowerBi.
+In this SQL project, I utilized SQL queries to analyze data from Danny's Diner, aiming to uncover key insights into customer preferences, spending habits, and visit patterns. By implementing these recommendations, Danny's Diner can better cater to customer preferences, improve engagement, and potentially increase overall sales.
+
 ![Danny's Diner Dashboard Overview](https://github.com/user-attachments/assets/efc14287-3be8-4904-a497-6f64f8a8698e)
 
 ## Insights:
